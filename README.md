@@ -1,15 +1,14 @@
 # Systemanforderungen — Lagerverwaltung
 
 Annahme: **Betrieb auf einem Linux-Server ohne Root-Rechte.**
-Windows als Host-OS wird nicht unterstützt.
 
 ## 1. Hardware (Mindest- / Empfehlung)
 
 | Ressource | Minimum | Empfohlen |
 |-----------|---------|-----------|
-| CPU       | 1 Kern  | 2 Kerne   |
-| RAM       | 2 GB    | 4 GB      |
-| Festplatte| 20 GB   | 40 GB SSD |
+| CPU       | 2 Kern  | 4 Kerne   |
+| RAM       | 4 GB    | 8 GB      |
+| Festplatte| 50 GB   | 100 GB SSD |
 | Netzwerk  | 100 MBit| 1 GBit, statische IP |
 
 Speicherbedarf wächst hauptsächlich durch Rechnungs-PDFs und Postgres-WAL/Backups.
