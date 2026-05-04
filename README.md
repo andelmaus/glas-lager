@@ -1,6 +1,6 @@
 # Systemanforderungen — Lagerverwaltung
 
-Annahme: **Betrieb auf einem Linux-Server ohne Root-Rechte.**
+Annahme: **Betrieb auf einem Linux-Server ohne Root-Rechte oder Virtuellen Server**
 
 ## 1. Hardware (Mindest- / Empfehlung)
 
