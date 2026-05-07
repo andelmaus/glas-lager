@@ -16,6 +16,14 @@ ss -tlnp | grep :22           # lauscht er auf 22?
 sudo journalctl -u ssh -n 50  # Fehler im SSH-Log?
 ```
 
+```bash
+sudo apt update                                                                                                                                                                                                                                                               
+sudo apt install openssh-server         
+sudo systemctl enable --now ssh                     
+sudo systemctl status ssh        # sollte "active (running)" zeigen
+ss -tlnp | grep :22    
+```
+
 Wenn Gateway nicht pingbar → Kabel / Switchport / VLAN / IP-Konfig falsch.
 Wenn `ss` Port 22 nicht zeigt → `sudo apt install openssh-server && sudo systemctl enable --now ssh`.
 
