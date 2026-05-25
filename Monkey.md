@@ -5,7 +5,7 @@ Diese kurze Anleitung zeigt, wie du Tampermonkey in Firefox installierst und ein
 ## 1. Tampermonkey in Firefox installieren
 
 1. Öffne Firefox mit Einstellungen und gehe auf Erweiterungen und Themes
-2. Suche nach **Tampermonkey**.
+2. Suche nach **Tampermonkey**. und klicke drauf.
 3. Klicke auf **Zu Firefox hinzufügen**.
 4. Bestätige die Installation mit **Hinzufügen**.
 5. Nach der Installation erscheint das Tampermonkey-Symbol oben rechts in Firefox.
