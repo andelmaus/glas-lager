@@ -19,6 +19,7 @@ Diese kurze Anleitung zeigt, wie du Tampermonkey in Firefox installierst und ein
 5. Kopiere das folgende Userscript vollständig in den Editor.
 6. Klicke auf **Datei > Speichern** oder drücke **Strg + S**.
 7. Prüfe im Dashboard, ob das Script aktiviert ist.
+8. Melde dich bei Sciformation an, um zu sehen, ob das Feld unten rechts erscheint.
 
 ## 3. Userscript:
 
