@@ -12,7 +12,7 @@ Diese kurze Anleitung zeigt, wie du Tampermonkey in Firefox installierst und ein
 
 ## 2. Neues Userscript in Tampermonkey einfügen
 
-1. Klicke oben rechts in Firefox auf das **Tampermonkey-Symbol**.
+1. Klicke oben rechts in Firefox auf das Puzzel Symbold und dann auf das (eckige mit zwei Kreisen drin) **Tampermonkey-Symbol**.
 2. Wähle **Dashboard**.
 3. Klicke auf **Neues Script erstellen** oder **Add a new script**.
 4. Lösche den vorhandenen Beispielcode im Editor.
