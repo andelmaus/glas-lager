@@ -25,9 +25,9 @@ Ein kleines Strato-Paket dient nur für:
 
 ### 1. Vorbereiten (noch nichts umstellen)
 - App auf der Subdomain **komplett testen**: Shop, Login/Admin, Bild-Uploads,
-  Bestell-/Kontakt-Mails.
+  Bestell-/Kontakt-Mails. (ist schon eingerichtet auf nudeln.beneckenstein.de)
 - Öffentliche **Server-IP** notieren: `curl -4 ifconfig.me`.
-  Falls nur dynamische IP: DynDNS oder feste IP klären.
+  Falls nur dynamische IP: DynDNS oder feste IP klären. (teile ich mit wenn es soweit ist)
 - Prüfen, ob bei Serverprofis **E-Mail-Postfächer** auf `@nudellabor.com` liegen.
   Wenn ja → vor der Kündigung Inhalte sichern (IMAP-Export).
 
